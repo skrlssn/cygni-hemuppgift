@@ -1,7 +1,3 @@
-API Mashup - Cygni-hemuppgift
-Av Oskar Olsson
-
-
 För att köra applikationen
 ---------------------------
 npm run start
